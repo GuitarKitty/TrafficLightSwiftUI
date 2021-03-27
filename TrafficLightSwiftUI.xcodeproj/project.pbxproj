@@ -11,6 +11,7 @@
 		84D43A42260F2184005F5D79 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D43A41260F2184005F5D79 /* ContentView.swift */; };
 		84D43A44260F2187005F5D79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84D43A43260F2187005F5D79 /* Assets.xcassets */; };
 		84D43A47260F2187005F5D79 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84D43A46260F2187005F5D79 /* Preview Assets.xcassets */; };
+		84D43A50260F5D14005F5D79 /* CircleConfigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D43A4F260F5D14005F5D79 /* CircleConfigure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		84D43A43260F2187005F5D79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84D43A46260F2187005F5D79 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		84D43A48260F2187005F5D79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84D43A4F260F5D14005F5D79 /* CircleConfigure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleConfigure.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				84D43A3F260F2184005F5D79 /* TrafficLightSwiftUIApp.swift */,
 				84D43A41260F2184005F5D79 /* ContentView.swift */,
+				84D43A4F260F5D14005F5D79 /* CircleConfigure.swift */,
 				84D43A43260F2187005F5D79 /* Assets.xcassets */,
 				84D43A48260F2187005F5D79 /* Info.plist */,
 				84D43A45260F2187005F5D79 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				84D43A42260F2184005F5D79 /* ContentView.swift in Sources */,
 				84D43A40260F2184005F5D79 /* TrafficLightSwiftUIApp.swift in Sources */,
+				84D43A50260F5D14005F5D79 /* CircleConfigure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
